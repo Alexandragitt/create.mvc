@@ -1,5 +1,5 @@
 <?php
-
+die("Testing branch");
 // FRONT CONTROLLER
 
 // 1. Общие настройки
